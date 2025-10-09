@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="left">Some of the more interesing projets</h3>
+<h3 align="left">Some of the more interesing repos:</h3>
 
 ###
 
-<p align="left">Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p>
+<p align="left">Nasa Mission Launcher: https://github.com/Mayyyk/nasa-mission</p><p align="left">https://github.com/Mayyyk/data_science_libraries_python</p><p align="left">https://github.com/Mayyyk/3d-portfolio</p><p align="left">https://github.com/Mayyyk/mathWithStreamlit</p><p align="left">https://github.com/Mayyyk/3d-portfolio</p><p align="left">https://github.com/Mayyyk/robofriends</p><p align="left">https://github.com/Mayyyk/brain</p>
 
 ###
 
