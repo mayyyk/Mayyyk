@@ -21,6 +21,8 @@
 ###
 
 <p align="left">🇵🇱 Poland<br>
+<p>I am an Automation Engineering student passionate about
+                        using technology to visualize complex and abstract concepts from physics, maths, digital signal processing and more...</p>
 
 ###
 
